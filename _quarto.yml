@@ -3,9 +3,8 @@ project:
   output-dir: docs
   
 website:
-  title: "REACTION-Studie"
+  title: "![](logos/Reaction_Logo.png)"
   margin-header: | 
-    ![](/Logos/Reaction_Logo.png)
     ![](/Logos/01_DCR_CMYK_POS.jpg){width="75%"}
     ![](/Logos/logo_unibern_squid3.png){width="50%"}
   navbar:

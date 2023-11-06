@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Die REACTION-Studie",
     "section": "",
-    "text": "Das Departement für klinische Forschung (Department of Clinical Research, DCR) der Universität Bern und des Inselspitals führt im Rahmen der Veranstaltung Tag der offenen Tür des Swiss Institute for Translational and Entrepreneurial Medicine (sitem) mit den Besucher*innen zu Demonstrationszwecken eine randomisierte klinische Studie durch."
+    "text": "Die REACTION-Studie\nEine randomisierte, kontrollierte Studie zur Untersuchung der Wirkung des REACTION-Drinks auf Reaktionsfähigkeit und Fitnessempfinden bei sitem-Besucher:innen anlässlich der Veranstaltung Tag der offenen Tür\nDas Departement für klinische Forschung (Department of Clinical Research, DCR) der Universität Bern und des Inselspitals führt im Rahmen der Veranstaltung Tag der offenen Tür des Swiss Institute for Translational and Entrepreneurial Medicine (sitem) mit den Besucher*innen zu Demonstrationszwecken eine randomisierte klinische Studie durch."
   },
   {
     "objectID": "about.html",
@@ -25,7 +25,7 @@
     "href": "results.html",
     "title": "Resultate",
     "section": "",
-    "text": "Characteristic\n      (Hafer-)Milch, N = 551\n      Schokoladenpulver+(Hafer-)Milch, N = 451\n      p-value2\n    \n  \n  \n    female\n36 (65%)\n18 (40%)\n0.011\n    age\n32 (23, 44)\n34 (23, 47)\n0.7\n  \n  \n  \n    \n      1 n (%); Median (IQR)\n    \n    \n      2 Pearson’s Chi-squared test; Wilcoxon rank sum test"
+    "text": "Characteristic\n      (Hafer-)Milch, N = 451\n      Schokoladenpulver+(Hafer-)Milch, N = 551\n      p-value2\n    \n  \n  \n    female\n28 (62%)\n26 (47%)\n0.14\n    age\n43 (26, 52)\n39 (26, 50)\n0.5\n  \n  \n  \n    \n      1 n (%); Median (IQR)\n    \n    \n      2 Pearson’s Chi-squared test; Wilcoxon rank sum test"
   },
   {
     "objectID": "index.html#eine-randomisierte-kontrollierte-studie-zur-untersuchung-der-wirkung-des-reaction-drinks-auf-reaktionsfähigkeit-und-fitnessempfinden-bei-sitem-besucherinnen-anlässlich-der-veranstaltung-tag-der-offenen-tür",
@@ -39,7 +39,7 @@
     "href": "results.html#patientinnen-charakteristika",
     "title": "Resultate",
     "section": "",
-    "text": "Characteristic\n      (Hafer-)Milch, N = 551\n      Schokoladenpulver+(Hafer-)Milch, N = 451\n      p-value2\n    \n  \n  \n    female\n36 (65%)\n18 (40%)\n0.011\n    age\n32 (23, 44)\n34 (23, 47)\n0.7\n  \n  \n  \n    \n      1 n (%); Median (IQR)\n    \n    \n      2 Pearson’s Chi-squared test; Wilcoxon rank sum test"
+    "text": "Characteristic\n      (Hafer-)Milch, N = 451\n      Schokoladenpulver+(Hafer-)Milch, N = 551\n      p-value2\n    \n  \n  \n    female\n28 (62%)\n26 (47%)\n0.14\n    age\n43 (26, 52)\n39 (26, 50)\n0.5\n  \n  \n  \n    \n      1 n (%); Median (IQR)\n    \n    \n      2 Pearson’s Chi-squared test; Wilcoxon rank sum test"
   },
   {
     "objectID": "xyz.html",
