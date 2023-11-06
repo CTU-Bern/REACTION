@@ -2,15 +2,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "REACTION",
+    "title": "Die REACTION-Studie",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Das Departement für klinische Forschung (Department of Clinical Research, DCR) der Universität Bern und des Inselspitals führt im Rahmen der Veranstaltung Tag der offenen Tür des Swiss Institute for Translational and Entrepreneurial Medicine (sitem) mit den Besucher*innen zu Demonstrationszwecken eine randomisierte klinische Studie durch."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Die REACTION-Studie",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Das Departement für klinische Forschung (Department of Clinical Research, DCR) der Universität Bern und des Inselspitals führt im Rahmen der Veranstaltung Tag der offenen Tür des Swiss Institute for Translational and Entrepreneurial Medicine (sitem) mit den Besucher*innen zu Demonstrationszwecken eine randomisierte klinische Studie durch."
+  },
+  {
+    "objectID": "about.html#eine-randomisierte-kontrollierte-studie-zur-untersuchung-der-wirkung-des-reaction-drinks-auf-reaktionsfähigkeit-und-fitnessempfinden-bei-sitem-besucherinnen-anlässlich-der-veranstaltung-tag-der-offenen-tür",
+    "href": "about.html#eine-randomisierte-kontrollierte-studie-zur-untersuchung-der-wirkung-des-reaction-drinks-auf-reaktionsfähigkeit-und-fitnessempfinden-bei-sitem-besucherinnen-anlässlich-der-veranstaltung-tag-der-offenen-tür",
+    "title": "Die REACTION-Studie",
+    "section": "",
+    "text": "Das Departement für klinische Forschung (Department of Clinical Research, DCR) der Universität Bern und des Inselspitals führt im Rahmen der Veranstaltung Tag der offenen Tür des Swiss Institute for Translational and Entrepreneurial Medicine (sitem) mit den Besucher*innen zu Demonstrationszwecken eine randomisierte klinische Studie durch."
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Resultate",
+    "section": "",
+    "text": "Characteristic\n      (Hafer-)Milch, N = 551\n      Schokoladenpulver+(Hafer-)Milch, N = 451\n      p-value2\n    \n  \n  \n    female\n36 (65%)\n18 (40%)\n0.011\n    age\n32 (23, 44)\n34 (23, 47)\n0.7\n  \n  \n  \n    \n      1 n (%); Median (IQR)\n    \n    \n      2 Pearson’s Chi-squared test; Wilcoxon rank sum test"
+  },
+  {
+    "objectID": "index.html#eine-randomisierte-kontrollierte-studie-zur-untersuchung-der-wirkung-des-reaction-drinks-auf-reaktionsfähigkeit-und-fitnessempfinden-bei-sitem-besucherinnen-anlässlich-der-veranstaltung-tag-der-offenen-tür",
+    "href": "index.html#eine-randomisierte-kontrollierte-studie-zur-untersuchung-der-wirkung-des-reaction-drinks-auf-reaktionsfähigkeit-und-fitnessempfinden-bei-sitem-besucherinnen-anlässlich-der-veranstaltung-tag-der-offenen-tür",
+    "title": "Die REACTION-Studie",
+    "section": "",
+    "text": "Das Departement für klinische Forschung (Department of Clinical Research, DCR) der Universität Bern und des Inselspitals führt im Rahmen der Veranstaltung Tag der offenen Tür des Swiss Institute for Translational and Entrepreneurial Medicine (sitem) mit den Besucher*innen zu Demonstrationszwecken eine randomisierte klinische Studie durch."
+  },
+  {
+    "objectID": "results.html#patientinnen-charakteristika",
+    "href": "results.html#patientinnen-charakteristika",
+    "title": "Resultate",
+    "section": "",
+    "text": "Characteristic\n      (Hafer-)Milch, N = 551\n      Schokoladenpulver+(Hafer-)Milch, N = 451\n      p-value2\n    \n  \n  \n    female\n36 (65%)\n18 (40%)\n0.011\n    age\n32 (23, 44)\n34 (23, 47)\n0.7\n  \n  \n  \n    \n      1 n (%); Median (IQR)\n    \n    \n      2 Pearson’s Chi-squared test; Wilcoxon rank sum test"
+  },
+  {
+    "objectID": "xyz.html",
+    "href": "xyz.html",
+    "title": "XYZ",
+    "section": "",
+    "text": "XYZ"
   }
 ]

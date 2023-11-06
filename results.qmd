@@ -1,0 +1,46 @@
+# Resultate
+
+## Einschluss von randomisierten Patient:innen
+
+```{r }
+#| echo: false
+#| message: false
+#| warning: false
+#| 
+
+library(tidyverse)
+
+data <- data.frame(time=rweibull(n=100, shape=2, scale=10)) %>% arrange(time)
+data$ind <- 1
+data <- data %>% mutate(cum_sum=cumsum(ind))
+
+ggplot(data=data, aes(x=time, y=cum_sum))+geom_step()+theme_bw()+xlab("Zeit seit erster Randomisierung in Stunden")+ylab("Anzahl Patient:innen randomisiert")
+```
+
+## Patient:innen Charakteristika
+
+```{r }
+#| echo: false
+#| message: false
+#| warning: false
+#| 
+
+library(tidyverse)
+library(gtsummary)
+
+data <- data.frame(female=rbinom(n=100, size=1, prob=0.52), age=rnorm(100, mean=35, sd=20), rando=rbinom(n=100, size=1, prob=0.5), diff=rnorm(n=100, mean=0, sd=2))
+
+data$rando <- factor(data$rando, levels=0:1, labels=c("(Hafer-)Milch", "Schokoladenpulver+(Hafer-)Milch"))
+data %>% tbl_summary(by=rando, missing_text="Missing", include=c(female, age)) %>% add_p()
+```
+
+## Effekt
+
+```{r }
+#| echo: false
+#| message: false
+#| warning: false
+#| 
+
+ggplot(data=data, aes(y=diff))+geom_boxplot()+theme_bw()+theme(panel.grid.minor = element_blank())
+```

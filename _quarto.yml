@@ -3,17 +3,21 @@ project:
   output-dir: docs
   
 website:
-  title: "REACTION"
+  title: "REACTION-Studie"
+  margin-header: | 
+    ![](/Logos/Reaction_Logo.png)
+    ![](/Logos/01_DCR_CMYK_POS.jpg){width="75%"}
+    ![](/Logos/logo_unibern_squid3.png){width="50%"}
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - index.qmd
+      - xyz.qmd
+      - results.qmd
 format:
   html:
+    toc: true
     toc-location: left
-    toc-depth: 4  
+    toc-depth: 4
     grid:
       sidebar-width: 300px
       body-width: 800px
