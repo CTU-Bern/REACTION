@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "![](logos/Reaction_Logo.png)"
+  title: "![](Logos/Reaction_Logo.png)"
   margin-header: | 
     ![](/Logos/01_DCR_CMYK_POS.jpg){width="75%"}
     ![](/Logos/logo_unibern_squid3.png){width="50%"}
