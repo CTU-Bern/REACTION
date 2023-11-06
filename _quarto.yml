@@ -5,8 +5,8 @@ project:
 website:
   title: "![](/Logos/Reaction_Logo.png)"
   margin-header: |
-    ![](/Logos/logo_unibern_squid3.png){width="50%"}
-    ![](/Logos/01_DCR_CMYK_POS.jpg){width="75%"}
+    [![Link](/Logos/logo_unibern_squid3.png){width="50%"}](https://www.unibe.ch/)
+    [![Link](/Logos/01_DCR_CMYK_POS.jpg){width="75%"}](https://www.dcr.unibe.ch/)
   navbar:
     left:
       - index.qmd
