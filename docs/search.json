@@ -46,6 +46,13 @@
     "href": "xyz.html",
     "title": "XYZ",
     "section": "",
-    "text": "XYZ"
+    "text": "BC"
+  },
+  {
+    "objectID": "xyz.html#a",
+    "href": "xyz.html#a",
+    "title": "XYZ",
+    "section": "",
+    "text": "BC"
   }
 ]
