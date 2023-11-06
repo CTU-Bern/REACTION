@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "REACTION"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    toc-location: left
+    toc-depth: 4  
+    grid:
+      sidebar-width: 300px
+      body-width: 800px
+      margin-width: 450px
+    theme: cosmo
+    linestretch: 2
+
+
+
+
