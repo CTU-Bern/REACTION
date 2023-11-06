@@ -17,6 +17,7 @@ format:
     toc: true
     toc-location: left
     toc-depth: 4
+    toc-title: "Inhalt auf dieser Seite"
     grid:
       sidebar-width: 300px
       body-width: 800px
