@@ -12,6 +12,7 @@ website:
       - index.qmd
       - 01_background.qmd
       - 02_results.qmd
+      - 03_about.qmd
 format:
   html:
     toc: true

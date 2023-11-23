@@ -97,9 +97,9 @@ Durch die Teilnahme an dieser Simulationsstudie ist Ihr Kind keinen medizinische
 
 ## Verschlüsselung und Schutz von Daten
 
-Bei jeder Studie entstehen Daten aus den Untersuchungen (z.B. Blutdruck und Puls). Diese Daten werden in einer elektronischen Datenbank erfasst. Alle Daten werden in der Datenbank verschlüsselt dokumentiert. «Verschlüsselt» heisst, dass persönliche Informationen wie der Name Ihres Kindes nicht in der Datenbank erfasst werden. Die Daten werden mit einem Code versehen, der nur über eine separate Codeliste mit Ihrem Kind in Verbindung gebracht werden kann.
+Bei jeder Studie entstehen Daten aus den Untersuchungen (z.B. Blutdruck und Puls). Diese Daten werden in einer elektronischen Datenbank erfasst. Alle Daten werden in der Datenbank verschlüsselt dokumentiert. «Verschlüsselt» heisst, dass persönliche Informationen wie der Name nicht in der Datenbank erfasst werden. Die Daten werden mit einem Code versehen, der nur über eine separate Codeliste einer Person in Verbindung gebracht werden kann.
 
-Wir schützen die Daten Ihres Kindes. Zum Schutz von Daten gibt es in der Schweiz strenge gesetzliche Regelungen. Die gesammelten Daten für diese Studie werden nur für den Simulationszweck verwendet. Die Datenbank einschliesslich aller Daten wird nach der Auswertung gelöscht.
+Wir schützen Ihre Daten. Zum Schutz von Daten gibt es in der Schweiz strenge gesetzliche Regelungen. Die gesammelten Daten für diese Studie werden nur für den Simulationszweck verwendet. Die Datenbank einschliesslich aller Daten wird nach der Auswertung gelöscht.
 
 ## Ergebnisse aus der Studie
 
