@@ -60,14 +60,14 @@
     "href": "02_results.html",
     "title": "Resultate",
     "section": "",
-    "text": "Resultate\nResultate werden nach der Durchführung der reaction-Studie hier publiziert."
+    "text": "Resultate\nDie Resultate werden nach der Durchführung der reaction-Studie hier publiziert."
   },
   {
     "objectID": "01_background.html",
     "href": "01_background.html",
-    "title": "Hintergrund",
+    "title": "Studienablauf",
     "section": "",
-    "text": "In dieser Studie werden mindestens 128 Personen eingeschlossen. Die Teilnehmenden werden zufällig in eine von zwei Gruppen eingeteilt. Man nennt dies Randomisierung. Jede Gruppe erhält eine andere Behandlung:"
+    "text": "In dieser Studie werden mindestens 128 Personen eingeschlossen. Die Teilnehmenden werden zufällig in eine von zwei Gruppen eingeteilt. Man nennt dies Randomisierung. Jede Gruppe erhält eine andere Behandlung:\n\n\n\n\n\n\n\n\nDie Teilnahme an der Studie dauert ca. 30 min. Der Ablauf der Studie wird in folgender Abbildung dargestellt:\n\n\n\n\n\nVor und nach der Einnahme des reaction-Drinks führen wir mit Ihrem Kind einen Reaktionstest durch und fragen nach seinem mentalen Fitnessempfinden. Beim Reaktionstest messen wir die Zeit, die Ihr Kind benötigt, um auf ein visuelles Signal zu reagieren. Folgende Daten werden erfasst:\n\n\n\nDaten\nBaseline\nBehandlung\nVerlaufskontrolle\n\n\n\n\nGeburtsjahr\nX\n\n\n\n\nGrösse\nX\n\n\n\n\nGeschlecht\nX\n\n\n\n\nAnzahl Stunden Gaming pro Tag\nX\n\n\n\n\nBefolgung der Behandlung (Menge des eingenommen Getränks)\n\nX\n\n\n\nGeschmack des Getränks\n\nX\n\n\n\nBlutdruck und Puls\nX\n\nX\n\n\nMentales Fitnessempfinden\nX\n\nX\n\n\nReaktionsfähigkeit\nX\n\nX\n\n\nNebenwirkungen\n\n\nX\n\n\n\n\n\n\nDurch die Teilnahme an dieser Simulationsstudie ist Ihr Kind keinen medizinischen Risiken, Belastungen oder Nebenwirkungen ausgesetzt.\n\n\n\nBei jeder Studie entstehen Daten aus den Untersuchungen (z.B. Blutdruck und Puls). Diese Daten werden in einer elektronischen Datenbank erfasst. Alle Daten werden in der Datenbank verschlüsselt dokumentiert. «Verschlüsselt» heisst, dass persönliche Informationen wie der Name Ihres Kindes nicht in der Datenbank erfasst werden. Die Daten werden mit einem Code versehen, der nur über eine separate Codeliste mit Ihrem Kind in Verbindung gebracht werden kann.\nWir schützen die Daten Ihres Kindes. Zum Schutz von Daten gibt es in der Schweiz strenge gesetzliche Regelungen. Die gesammelten Daten für diese Studie werden nur für den Simulationszweck verwendet. Die Datenbank einschliesslich aller Daten wird nach der Auswertung gelöscht.\n\n\n\nDie Gesamtergebnisse der Studie, die sich aus den Daten aller Teilnehmenden ergeben, werden unter hier veröffentlicht."
   },
   {
     "objectID": "01_background.html#a",
@@ -79,8 +79,43 @@
   {
     "objectID": "01_background.html#aufbau-der-studie-wie-gehen-wir-vor",
     "href": "01_background.html#aufbau-der-studie-wie-gehen-wir-vor",
-    "title": "Hintergrund",
+    "title": "Studienablauf",
     "section": "",
     "text": "In dieser Studie werden mindestens 128 Personen eingeschlossen. Die Teilnehmenden werden zufällig in eine von zwei Gruppen eingeteilt. Man nennt dies Randomisierung. Jede Gruppe erhält eine andere Behandlung:"
+  },
+  {
+    "objectID": "01_background.html#ablauf-der-studie",
+    "href": "01_background.html#ablauf-der-studie",
+    "title": "Studienablauf",
+    "section": "",
+    "text": "Die Teilnahme an der Studie dauert ca. 30 min. Der Ablauf der Studie wird in folgender Abbildung dargestellt:\n\n\n\n\n\nVor und nach der Einnahme des reaction-Drinks führen wir mit Ihrem Kind einen Reaktionstest durch und fragen nach seinem mentalen Fitnessempfinden. Beim Reaktionstest messen wir die Zeit, die Ihr Kind benötigt, um auf ein visuelles Signal zu reagieren. Folgende Daten werden erfasst:\n\n\n\nDaten\nBaseline\nBehandlung\nVerlaufskontrolle\n\n\n\n\nGeburtsjahr\nX\n\n\n\n\nGrösse\nX\n\n\n\n\nGeschlecht\nX\n\n\n\n\nAnzahl Stunden Gaming pro Tag\nX\n\n\n\n\nBefolgung der Behandlung (Menge des eingenommen Getränks)\n\nX\n\n\n\nGeschmack des Getränks\n\nX\n\n\n\nBlutdruck und Puls\nX\n\nX\n\n\nMentales Fitnessempfinden\nX\n\nX\n\n\nReaktionsfähigkeit\nX\n\nX\n\n\nNebenwirkungen\n\n\nX"
+  },
+  {
+    "objectID": "01_background.html#risiken-belastungen-und-nebenwirkungen",
+    "href": "01_background.html#risiken-belastungen-und-nebenwirkungen",
+    "title": "Studienablauf",
+    "section": "",
+    "text": "Durch die Teilnahme an dieser Simulationsstudie ist Ihr Kind keinen medizinischen Risiken, Belastungen oder Nebenwirkungen ausgesetzt."
+  },
+  {
+    "objectID": "01_background.html#verschlusselung-und-schutz-von-date",
+    "href": "01_background.html#verschlusselung-und-schutz-von-date",
+    "title": "Studienablauf",
+    "section": "",
+    "text": "Bei jeder Studie entstehen Daten aus den Untersuchungen (z.B. Blutdruck und Puls). Diese Daten werden in einer elektronischen Datenbank erfasst. Alle Daten werden in der Datenbank verschlüsselt dokumentiert. «Verschlüsselt» heisst, dass persönliche Informationen wie der Name Ihres Kindes nicht in der Datenbank erfasst werden. Die Daten werden mit einem Code versehen, der nur über eine separate Codeliste mit Ihrem Kind in Verbindung gebracht werden kann.\nWir schützen die Daten Ihres Kindes. Zum Schutz von Daten gibt es in der Schweiz strenge gesetzliche Regelungen. Die gesammelten Daten für diese Studie werden nur für den Simulationszweck verwendet. Die Datenbank einschliesslich aller Daten wird nach der Auswertung gelöscht."
+  },
+  {
+    "objectID": "01_background.html#verschlüsselung-und-schutz-von-daten",
+    "href": "01_background.html#verschlüsselung-und-schutz-von-daten",
+    "title": "Studienablauf",
+    "section": "",
+    "text": "Bei jeder Studie entstehen Daten aus den Untersuchungen (z.B. Blutdruck und Puls). Diese Daten werden in einer elektronischen Datenbank erfasst. Alle Daten werden in der Datenbank verschlüsselt dokumentiert. «Verschlüsselt» heisst, dass persönliche Informationen wie der Name Ihres Kindes nicht in der Datenbank erfasst werden. Die Daten werden mit einem Code versehen, der nur über eine separate Codeliste mit Ihrem Kind in Verbindung gebracht werden kann.\nWir schützen die Daten Ihres Kindes. Zum Schutz von Daten gibt es in der Schweiz strenge gesetzliche Regelungen. Die gesammelten Daten für diese Studie werden nur für den Simulationszweck verwendet. Die Datenbank einschliesslich aller Daten wird nach der Auswertung gelöscht."
+  },
+  {
+    "objectID": "01_background.html#ergebnisse-aus-der-studie",
+    "href": "01_background.html#ergebnisse-aus-der-studie",
+    "title": "Studienablauf",
+    "section": "",
+    "text": "Die Gesamtergebnisse der Studie, die sich aus den Daten aller Teilnehmenden ergeben, werden unter hier veröffentlicht."
   }
 ]
