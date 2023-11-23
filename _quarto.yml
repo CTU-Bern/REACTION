@@ -10,8 +10,8 @@ website:
   navbar:
     left:
       - index.qmd
-      - xyz.qmd
-      - results.qmd
+      - 01_background.qmd
+      - 02_results.qmd
 format:
   html:
     toc: true
