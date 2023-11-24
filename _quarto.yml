@@ -11,6 +11,8 @@ website:
     [![Link](/Logos/logo_unibern_squid3.png){width="50%"}](https://www.unibe.ch/)
     [![Link](/Logos/01_DCR_CMYK_POS.jpg){width="75%"}](https://www.dcr.unibe.ch/)
   navbar:
+    title: false
+    logo: /Logos/Reaction_Logo.png
     left:
       - index.qmd
       - 01_background.qmd
