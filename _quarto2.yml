@@ -7,7 +7,8 @@ website:
   search: false
   favicon: /Logos/Reaction_Logo.png
   margin-header: |
-    ![](/Logos/reaction-Sticker_20x15cm.png){width="40%"}
+    ![](/Logos/Reaction_Logo.png){width="25%"}
+    [![Link](/Logos/01_DCR_CMYK_POS.jpg){width="75%"}](https://www.dcr.unibe.ch/)
   navbar:
 
     title: false
@@ -16,13 +17,14 @@ website:
       - index.qmd
       - 01_background.qmd
       - 02_results.qmd
+      - 03_about.qmd
 format:
   html:
     toc: true
-    mainfont: Arial
+    font-family: Arial
     toc-location: left
     toc-depth: 4
-    toc-title: " "
+    toc-title: "Inhalt auf dieser Seite"
     grid:
       sidebar-width: 300px
       body-width: 800px
