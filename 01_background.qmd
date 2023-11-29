@@ -1,4 +1,4 @@
-Link zum [Poster des Studienablaufs](https://raw.githubusercontent.com/CTU-Bern/reaction/main/poster/Reaction_PosterStudienablauf_A0_20231120.pdf).
+Link zum [Poster des Studienablaufs](https://raw.githubusercontent.com/CTU-Bern/reaction/main/poster/Reaction_PosterStudienablauf_A0_20231120.pdf){target="_blank"}.
 
 ## Studienablauf
 
