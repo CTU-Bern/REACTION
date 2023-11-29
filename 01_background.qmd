@@ -1,5 +1,39 @@
-# Studienablauf
+## Studienablauf
 
-```{=html}
-<iframe width="1500" height="1500" src=/Logos/Reaction_PosterStudienablauf_A0_20231120.png style="border:none;""></iframe>
-```
+Das Department of Clinical Research (DCR) der Universität Bern und des Inselspitals führt im Rahmen der Veranstaltung «Tag der offenen Tür» des Swiss Institute for Translational and Entrepreneurial Medicine (sitem) mit den Besucher:innen zu Demonstrationszwecken eine randomisierte klinische Studie durch.
+
+Die Studie wird von 10 bis etwa 16 Uhr durchgeführt. Wir empfehlen den Teilnehmenden, etwa 30 Minuten für den ganzen Ablauf einzuplanen.
+Insgesamt sollen 128 Besucher:innen in die Studie eingeschlossen werden.
+
+Die Entwicklung der Studienresultate können Sie live über einen Bildschirm mitverfolgen. Ausserdem stellen wir die Resultate auf folgender Website zur Verfügung: reaction-by-dcr.ch.
+
+**Aufnahme und Aufklärung: Department of Clinical Research, 1. OG Ost**
+
+- Aufklärung über die Studie
+- Abklärung der Eignung zur Studienteilnahme
+- Einverständniserklärung
+
+- Erhebung von Basisdaten 1: Geburtsjahr, Geschlecht, Anzahl Stunden Gaming pro Tag
+
+- Randomisierung (zufällige Einteilung in Studiengruppen): 1	reaction-Drink (auf Basis Kuhmilch oder Haferdrink) oder 2	Milch (Kuhmilch oder Haferdrink)
+
+**Untersuchungsräume 1, 2, 3: O1.416, O1.417, O1.418**
+
+- Erhebung von Basisdaten 2: Körpergrösse, Blutdruck, Puls, mentales Fitnessempfinden und Reaktionstest
+
+- Intervention: Je nach Gruppenzuteilung Einnahme reaction-Drink oder Milch (Kuhmilch oder Haferdrink)
+- Befragung zum Geschmack des Getränks
+
+**Follow-up: O1.301**
+
+- Nachuntersuchung: Blutdruck und Puls, mentales Fitnessempfinden, Reaktionstest, Nebenwirkungen
+
+## Datenbank und Datenerfassung
+
+Unsere Datenmanager:innen erfassen die erhobenen Daten umgehend vor Ort in der Studiendatenbank. Sie können ihnen dabei gerne über die Schulter schauen und Fragen stellen.
+
+## Statistische Analyse
+
+Die statistische Analyse erfolgt durch unsere Statistiker:innen. Auch dies können Sie live mitverfolgen und von ihnen erfahren, was Sie gerne wissen möchten.
+
+Link zum [Studienablauf Poster](https://www.ctu.unibe.ch/unibe/portal/fak_medizin/micro_ctu/content/e182549/e203619/e1449973/e1450036/Reaction_Flyer_A5_20231115_eng.pdf).
