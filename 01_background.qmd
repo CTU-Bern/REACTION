@@ -36,4 +36,4 @@ Unsere Datenmanager:innen erfassen die erhobenen Daten umgehend vor Ort in der S
 
 Die statistische Analyse erfolgt durch unsere Statistiker:innen. Auch dies können Sie live mitverfolgen und von ihnen erfahren, was Sie gerne wissen möchten.
 
-Link zum [Studienablauf Poster](https://www.ctu.unibe.ch/unibe/portal/fak_medizin/micro_ctu/content/e182549/e203619/e1449973/e1450036/Reaction_Flyer_A5_20231115_eng.pdf).
+Link zum [Studienablauf Poster](https://github.com/CTU-Bern/reaction/blob/main/logos/Reaction_PosterStudienablauf_A0_20231120.pdf).
