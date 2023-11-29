@@ -6,16 +6,16 @@ website:
   title: "Die reaction-Studie"
   search: false
   favicon: /Logos/Reaction_Logo.png
-  margin-header: |
+  body-header: |
     ![](/Logos/reaction-Sticker_20x15cm.png){width="40%"}
   navbar:
-
     title: false
     logo: /Logos/Reaction_Logo.png
     left:
       - index.qmd
       - 01_background.qmd
       - 02_results.qmd
+
 format:
   html:
     toc: true
