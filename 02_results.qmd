@@ -1,8 +1,12 @@
 # Resultate
 
+## Zusammenfassung
+
+Wir finden keinen Effekt des reaction-Drinks auf die Reaktionszeit in der Gesamtstudienpopulation.
+
 ## Rekrutierung
 
-Gesamthaft wurden 69 Teilnehmende über einen Zeitraum von ca. 4 Stunden randomisert. Die Grafik unten zeigt die Rekrutierung der Teilnehmenden seit der ersten Randomisierung.
+Gesamthaft wurden 69 Teilnehmende über einen Zeitraum von ca. 4 Stunden randomisiert. Die Grafik unten zeigt die Rekrutierung der Teilnehmenden seit der ersten Randomisierung einer Person in die Studie.
 
 ![](/results/fig1.png)
 
