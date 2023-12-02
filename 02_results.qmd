@@ -2,7 +2,7 @@
 
 ## Zusammenfassung
 
-Insgesamt wurden 69 Teilnehmende in der reaction-Studie randomisiert (34 Teilnehmende in die Kontrollgruppe, 35 Teilnehmende in die reaction Gruppe). Wir finden keinen Effekt des reaction-Drinks auf die Reaktionszeit in der Gesamtstudienpopulation. Bei Frauen stellen wir einen statistisch relevanten Effekt des reaction-Drinks auf die Reaktionszeit fest.
+Insgesamt wurden 69 Teilnehmende in der reaction-Studie randomisiert (34 Teilnehmende in die Kontrollgruppe, 35 Teilnehmende in die reaction Gruppe). Wir finden keinen Effekt des reaction-Drinks auf die Reaktionszeit in der Gesamtstudienpopulation. Bei Frauen stellen wir einen statistisch relevanten Effekt des reaction-Drinks auf die Reaktionszeit fest. Die angestrebte Stichprobengrösse von 128 Teilnehmenden wurde nicht erreicht.
 
 ## Rekrutierung
 
