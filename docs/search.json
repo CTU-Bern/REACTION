@@ -60,7 +60,7 @@
     "href": "02_results.html",
     "title": "Resultate",
     "section": "",
-    "text": "Resultate\nDie Resultate werden nach der Durchführung der reaction-Studie hier publiziert."
+    "text": "Gesamthaft wurden 69 Teilnehmende über einen Zeitraum von ca. 4 Stunden randomisert. Die Grafik unten zeigt die Rekrutierung der Teilnehmenden seit der ersten Randomisierung.\n\n\n\n\n34 Teilnehmende wurden in die Kontrollgruppe und 35 Teilnehmende wurde in die reaction Gruppe randomisiert. Andere Merkmale sind in der nachfolgenden Tabelle dargestellt. Die dargestellten Werte repräsentieren entweder eine Anzahl (mit Prozent) oder den Mittelwert (mit Standardabweichung).\n\n\n\n\nDie mittlere Reaktionszeit (in Millisekunden) zum Ausgangszeitpunkt beträgt 332.1 ms in der Kontrollgruppe und 329.0 ms in der reaction Gruppe. Nach dem Trinken des Getränkes beträgt die Reaktionszeit in der Kontrollgruppe 315.6 ms und 308.9 ms in der reaction Gruppe. Die Differenz zwischen der Messung der Folgeuntersuchung und dem Ausgangszeitpunkt beträgt -16.4 ms in der Kontrollgruppe (d.h. Verbesserung der Reaktionszeit). Der Differenzwert in der reaction Gruppe beträgt -26.3 ms.\n Die statistische Modellierung ergibt, dass die mittlere Differenz der Reaktionszeit zwischen der reaction Gruppe und der Kontrollgruppe -10.4 ms beträgt. Da das 95%-Konfidenzintervall den Nulleffekt (d.h. kein Effekt des reaction Drinks) beinhaltet, verwerfen wir die Hypothese dass kein Effekt des reaction-Drinks vorliegt nicht. Diese Schätzwerte wurden für die Basis-Reaktionszeit und Altersgruppen adjustiert."
   },
   {
     "objectID": "01_background.html",
@@ -194,5 +194,26 @@
     "title": "Die reaction-Studie",
     "section": "Studienablauf",
     "text": "Studienablauf\nDas Department of Clinical Research (DCR) der Universität Bern und des Inselspitals führt im Rahmen der Veranstaltung «Tag der offenen Tür» des Swiss Institute for Translational and Entrepreneurial Medicine (sitem) mit den Besucher:innen zu Demonstrationszwecken eine randomisierte klinische Studie durch.\nDie Studie wird von 10 bis etwa 16 Uhr durchgeführt. Wir empfehlen den Teilnehmenden, etwa 30 Minuten für den ganzen Ablauf einzuplanen. Insgesamt sollen 128 Besucher:innen in die Studie eingeschlossen werden.\nDie Entwicklung der Studienresultate können Sie live über einen Bildschirm mitverfolgen.\nAufnahme und Aufklärung: Department of Clinical Research, 1. OG Ost\n\nAufklärung über die Studie\nAbklärung der Eignung zur Studienteilnahme\nEinverständniserklärung\nErhebung von Basisdaten 1: Geburtsjahr, Geschlecht, Anzahl Stunden Gaming pro Tag\nRandomisierung (zufällige Einteilung in Studiengruppen): 1 reaction-Drink (auf Basis Kuhmilch oder Haferdrink) oder 2 Milch (Kuhmilch oder Haferdrink)\n\nUntersuchungsräume 1, 2, 3: O1.416, O1.417, O1.418\n\nErhebung von Basisdaten 2: Körpergrösse, Blutdruck, Puls, mentales Fitnessempfinden und Reaktionstest\nIntervention: Je nach Gruppenzuteilung Einnahme reaction-Drink oder Milch (Kuhmilch oder Haferdrink)\nBefragung zum Geschmack des Getränks\n\nFollow-up: O1.301\n\nNachuntersuchung: Blutdruck und Puls, mentales Fitnessempfinden, Reaktionstest, Nebenwirkungen"
+  },
+  {
+    "objectID": "02_results.html#rekrutierung",
+    "href": "02_results.html#rekrutierung",
+    "title": "Resultate",
+    "section": "",
+    "text": "Gesamthaft wurden 69 Teilnehmende über einen Zeitraum von ca. 4 Stunden randomisert. Die Grafik unten zeigt die Rekrutierung der Teilnehmenden seit der ersten Randomisierung."
+  },
+  {
+    "objectID": "02_results.html#gesamtergebnis",
+    "href": "02_results.html#gesamtergebnis",
+    "title": "Resultate",
+    "section": "",
+    "text": "Die mittlere Reaktionszeit (in Millisekunden) zum Ausgangszeitpunkt beträgt 332.1 ms in der Kontrollgruppe und 329.0 ms in der reaction Gruppe. Nach dem Trinken des Getränkes beträgt die Reaktionszeit in der Kontrollgruppe 315.6 ms und 308.9 ms in der reaction Gruppe. Die Differenz zwischen der Messung der Folgeuntersuchung und dem Ausgangszeitpunkt beträgt -16.4 ms in der Kontrollgruppe (d.h. Verbesserung der Reaktionszeit). Der Differenzwert in der reaction Gruppe beträgt -26.3 ms.\n Die statistische Modellierung ergibt, dass die mittlere Differenz der Reaktionszeit zwischen der reaction Gruppe und der Kontrollgruppe -10.4 ms beträgt. Da das 95%-Konfidenzintervall den Nulleffekt (d.h. kein Effekt des reaction Drinks) beinhaltet, verwerfen wir die Hypothese dass kein Effekt des reaction-Drinks vorliegt nicht. Diese Schätzwerte wurden für die Basis-Reaktionszeit und Altersgruppen adjustiert."
+  },
+  {
+    "objectID": "02_results.html#merkmale-der-teilnehmenden",
+    "href": "02_results.html#merkmale-der-teilnehmenden",
+    "title": "Resultate",
+    "section": "",
+    "text": "34 Teilnehmende wurden in die Kontrollgruppe und 35 Teilnehmende wurde in die reaction Gruppe randomisiert. Andere Merkmale sind in der nachfolgenden Tabelle dargestellt. Die dargestellten Werte repräsentieren entweder eine Anzahl (mit Prozent) oder den Mittelwert (mit Standardabweichung)."
   }
 ]

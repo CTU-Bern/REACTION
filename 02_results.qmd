@@ -1,3 +1,22 @@
 # Resultate
 
-Die Resultate werden nach der Durchführung der reaction-Studie hier publiziert.
+## Rekrutierung
+
+Gesamthaft wurden 69 Teilnehmende über einen Zeitraum von ca. 4 Stunden randomisert. Die Grafik unten zeigt die Rekrutierung der Teilnehmenden seit der ersten Randomisierung.
+
+![](/results/fig1.png)
+
+## Merkmale der Teilnehmenden
+
+34 Teilnehmende wurden in die Kontrollgruppe und 35 Teilnehmende wurde in die reaction Gruppe randomisiert. Andere Merkmale sind in der nachfolgenden Tabelle dargestellt. Die dargestellten Werte repräsentieren entweder eine Anzahl (mit Prozent) oder den Mittelwert (mit Standardabweichung).
+
+![](/results/fig2.png)
+
+## Gesamtergebnis
+
+Die mittlere Reaktionszeit (in Millisekunden) zum Ausgangszeitpunkt beträgt 332.1 ms in der Kontrollgruppe und 329.0 ms in der reaction Gruppe. Nach dem Trinken des Getränkes beträgt die Reaktionszeit in der Kontrollgruppe 315.6 ms und 308.9 ms in der reaction Gruppe. Die Differenz zwischen der Messung der Folgeuntersuchung und dem Ausgangszeitpunkt beträgt -16.4 ms in der Kontrollgruppe (d.h. Verbesserung der Reaktionszeit). Der Differenzwert in der reaction Gruppe beträgt -26.3 ms.
+
+![](/results/fig3.png)
+Die statistische Modellierung ergibt, dass die mittlere Differenz der Reaktionszeit zwischen der reaction Gruppe und der Kontrollgruppe -10.4 ms beträgt. Da das 95%-Konfidenzintervall den Nulleffekt (d.h. kein Effekt des reaction Drinks) beinhaltet, verwerfen wir die Hypothese dass **kein** Effekt des reaction-Drinks vorliegt **nicht**. Diese Schätzwerte wurden für die Basis-Reaktionszeit und Altersgruppen adjustiert.
+
+![](/results/fig4.png)
