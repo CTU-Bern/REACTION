@@ -2,7 +2,7 @@
 
 ## Zusammenfassung
 
-Insgesamt wurden 69 Teilnehmende in der reaction-Studie randomisiert (34 Teilnehmende in die Kontrollgruppe, 35 Teilnehmende in die reaction Gruppe). Wir finden keinen Effekt des reaction-Drinks auf die Reaktionszeit in der Gesamtstudienpopulation. Bei Frauen stellen wir einen statistisch relevanten Effekt des reaction-Drinks auf die Reaktionszeit fest. Die angestrebte Stichprobengrösse von 128 Teilnehmenden wurde nicht erreicht.
+Insgesamt wurden 69 Teilnehmende in der reaction-Studie randomisiert (34 Teilnehmende in die Kontrollgruppe, 35 Teilnehmende in die reaction Gruppe). Wir finden keinen Effekt des reaction-Drinks auf die Reaktionszeit in der Gesamtstudienpopulation. Bei einer Einschränkung der Studienpopulation auf Frauen stellen wir einen statistisch relevanten Effekt des reaction-Drinks auf die Reaktionszeit fest. Die angestrebte Stichprobengrösse von 128 Teilnehmenden wurde nicht erreicht.
 
 ## Rekrutierung
 
@@ -31,7 +31,7 @@ Die mittlere Differenz der Reaktionszeit bei Frauen beträgt -47.4 ms in der rea
 
 ![](/results/fig5.png)
 
-Bei Frauen gibt es einen statistisch relevanten Effekt des reaction-Drinks auf die Reaktionszeit: Frauen in der reaction Gruppe haben eine um 31.7 ms tiefere Reaktionszeit als die Kontrollgruppe mit einem 95%-Konfidenzintervalle von 5.5 bis 57.9 ms, welches den Nulleffekt nicht einschliesst.
+Bei einer Einschränkung der Studienpopulation auf Frauen finden wir einen statistisch relevanten Effekt des reaction-Drinks auf die Reaktionszeit: Frauen in der reaction Gruppe haben eine um 31.7 ms tiefere Reaktionszeit als die Kontrollgruppe mit einem 95%-Konfidenzintervalle von 5.5 bis 57.9 ms, welches den Nulleffekt nicht einschliesst.
 
 ![](/results/fig6.png)
 
@@ -41,6 +41,6 @@ Die mittlere Differenz der Reaktionszeit bei den unter 18-jährigen Teilnehmende
 
 ![](/results/fig7.png)
 
-Wir finden keine Evidenz für einen Effekt des reaction-Drinks innerhalb der gewählten Altersgruppen finden, da die 95%-Konfidenzintervalle den Nulleffekt beinhalten.
+Wir finden keine Evidenz für einen Effekt des reaction-Drinks innerhalb der gewählten Altersgruppen, da die 95%-Konfidenzintervalle den Nulleffekt beinhalten.
 
 ![](/results/fig8.png)
